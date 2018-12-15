@@ -1,2 +1,3 @@
 # Interdigitated-electrodes-capaciatance-calculator
-This code calculates the capacitance of a iterdigitated electrode when embedded onto a dielectric or on the surface of the dielectric. 
+
+Calculating capacitance of interdigitated electrodes is not strightforwad, espicially when it is designed to be used as a senor. With this code, one need to input the capacitor dimentions and the necessary dielectric permitivitty and it calulates the capacitance of the electrode when embedded in to a dielectric or on top of the dielectric
